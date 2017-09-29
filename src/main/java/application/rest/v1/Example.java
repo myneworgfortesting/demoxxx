@@ -1,5 +1,4 @@
 package application.rest.v1;
-
 import java.util.List;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
