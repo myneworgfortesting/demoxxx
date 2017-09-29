@@ -21,7 +21,7 @@ public class Example {
         List<String> list = new ArrayList<>();
         //return a simple list of strings
         list.add("Some data");
-        return "Hello! from "+ java.net.InetAddress.getLocalHost().getHostName();
+        return "Hello from "+ java.net.InetAddress.getLocalHost().getHostName();
     }
 
 
